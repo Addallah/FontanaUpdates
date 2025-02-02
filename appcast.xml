@@ -1,7 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Fontana</title>
+        <title>Fontastic</title>
+        <item>
+            <title>1.0.2</title>
+            <pubDate>Sun, 02 Feb 2025 08:18:09 +0300</pubDate>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://addallah.github.io/FontanaUpdates/Fontana.dmg" length="7580995" type="application/octet-stream" sparkle:edSignature="3JmO3uliivLud6IuEi/9WqjySOE3bPVFmalbYT0V0clL9AtQlQSaBerytfZeR4uFJiaQo8nI4nHUGXWHbOEnAA=="/>
+        </item>
         <item>
             <title>1.0.1</title>
             <pubDate>Wed, 29 Jan 2025 07:44:16 +0300</pubDate>
