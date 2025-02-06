@@ -3,6 +3,14 @@
     <channel>
         <title>Fontastic</title>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Thu, 06 Feb 2025 08:06:04 +0300</pubDate>
+            <sparkle:version>1.3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Addallah/FontanaUpdates/releases/download/v1.0.3/Fontana.dmg" length="8315677" type="application/octet-stream" sparkle:edSignature="YvWYLSlTI0WlYSpMUcGQsYABewqoFoHUHj0NC/CGCoehQVO7kUaLmUYkcPAq5PqQfSCEGCAMxuHkA/oSfKa/CQ=="/>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Sun, 02 Feb 2025 08:18:09 +0300</pubDate>
             <sparkle:version>1.2</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Addallah/FontanaUpdates/releases/download/prod/Fontana.dmg" length="7579551" type="application/octet-stream" sparkle:edSignature="RDyVMriwOdqRHwDL0wdzE/k87QcYVdEIOCP9Q0eoDSg0HUEdf/7hRRYIJvEVcrytNq+1gbcgphCPnOa74YULCA=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Fri, 24 Jan 2025 07:15:45 +0300</pubDate>
-            <sparkle:version>Build No. 4</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Addallah/FontanaUpdates/releases/download/prod/Fontana.dmg" length="21778008" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
